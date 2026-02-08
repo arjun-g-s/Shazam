@@ -12,4 +12,4 @@ A project to generate **audio landmarks** from songs and store them in a **SQLit
 - Required Python libraries (install via pip):
 
 ```bash
-pip install numpy scipy matplotlib librosa
+pip install numpy scipy matplotlib soundfile sqlite3
